@@ -1,2 +1,2 @@
-initial commit
-second commit
+Initial commit
+Also a second commit to cause a clash?
